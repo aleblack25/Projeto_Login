@@ -23,7 +23,7 @@ Uma tela de login moderna e responsiva desenvolvida com HTML e CSS, focada em de
 
 🔗 Acesse o projeto:
 
-COLE_AQUI_O_LINK_DO_GITHUB_PAGES
+(https://aleblack25.github.io/Projeto_Login/)
 
 ## 📸 Preview
 
